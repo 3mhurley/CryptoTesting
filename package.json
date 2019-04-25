@@ -1,0 +1,22 @@
+{
+  "name": "cryptotesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3mhurley/CryptoTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3mhurley/CryptoTesting/issues"
+  },
+  "homepage": "https://github.com/3mhurley/CryptoTesting#readme",
+  "dependencies": {
+    "crypto-random-string": "^2.0.0"
+  }
+}
